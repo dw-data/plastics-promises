@@ -2,7 +2,7 @@
 # How European food companies break their plastics promises
 
   
-Two-thirds of pledges to go greener on plastic fail or are dropped, a DW investigation has found. Here's how European food and drink companies break their own commitments, and how legislation might hold them accountable.
+Two-thirds of pledges to go greener on plastic packaging fail or are dropped, a DW investigation has found. Here's how European food and drink companies break their own commitments, and how legislation might hold them accountable.
 
 This project is a collaboration within the [European Data Journalism Network](https://www.europeandatajournalism.eu/).
 
@@ -19,9 +19,6 @@ Transeuropa](https://www.balcanicaucaso.org/), [Openpolis](https://www.openpolis
 Links will be added as articles are published.
 
 DW: *"European food companies break their plastics promises"* [[English](https://www.dw.com/a-62622509) | [German](https://www.dw.com/a-62622558)]
-
-**This repository is maintained by:** [Kira Schacht](https://twitter.com/daten_drang)
-
 
 # Files
 
@@ -50,7 +47,7 @@ Partners then added the top 10 companies from their respective country for a clo
 | Slovenia | total income from sales |
 | Germany | revenue |
 
-For each company, we then searched available records starting from the year 200 to find any pledges or goals publicly stated relating to plastic packaging, e.g.
+For each company, we then searched available records starting from the year 2000 to find any pledges or goals publicly stated relating to plastic packaging, e.g.
 - reduction or replacement of plastic packaging
 - recycled content
 - recyclability
@@ -88,7 +85,7 @@ For each promise, we evaluated the data as follows:
 | unclear | No information found |
 | future | Target year is in the future |
 
-Where targets where not verifiable, we contacted the company responsible and, where clarification was provided, updated the relevant data. If companies did not comment further on targets, they remained labeled as unclear.
+Where targets where not verifiable or appeared to be missed, we contacted the company responsible and, where clarification was provided, updated the relevant data. If companies did not comment further on targets, they remained labeled as unclear.
 
 ### What is the promise about?
 
@@ -114,7 +111,7 @@ In the case of 37 pledges that should have already been delivered on, 68% either
 
 ![395_en_plastics_promises_status](charts/395_en_plastics_promises_status.png)
 
-The full database (available as an Excel file in this repository or as a [Google Sheet](https://docs.google.com/spreadsheets/d/1nnhW5ZnwL9XSC3AHtRWfLrWwLXs6N0rWfNdJVnWgU9k/edit?usp=sharing)) provides more information about each pledge, including its source and any relevant notes.
+The full database (available as an [Excel file](Plastics Promises Database.xlsx) in this repository or as a [Google Sheet](https://docs.google.com/spreadsheets/d/1nnhW5ZnwL9XSC3AHtRWfLrWwLXs6N0rWfNdJVnWgU9k/edit?usp=sharing)) provides more information about each pledge, including its source and any relevant notes.
 
 ## Danone: Promises on recycled PET in water bottles
 
