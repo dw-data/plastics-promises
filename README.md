@@ -18,7 +18,8 @@ Transeuropa](https://www.balcanicaucaso.org/), [Openpolis](https://www.openpolis
 
 Links will be added as articles are published.
 
-DW: *"European food companies break their plastics promises"* [[English](https://www.dw.com/a-62622509) | [German](https://www.dw.com/a-62622558)]
+- DW: *"European food companies break their plastics promises"* [[English](https://www.dw.com/a-62622509) | [German](https://www.dw.com/a-62622558)]
+- European Data Journalism Network: *"European food companies break their plastics promises"* [[English](https://www.europeandatajournalism.eu/eng/News/Data-news/European-food-companies-break-their-plastics-promises)]
 
 # Files
 
