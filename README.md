@@ -18,8 +18,10 @@ Transeuropa](https://www.balcanicaucaso.org/), [Openpolis](https://www.openpolis
 
 Links will be added as articles are published.
 
-- DW: *"European food companies break their plastics promises"* [[English](https://www.dw.com/a-62622509) | [German](https://www.dw.com/a-62622558)]
-- European Data Journalism Network: *"European food companies break their plastics promises"* [[English](https://www.europeandatajournalism.eu/eng/News/Data-news/European-food-companies-break-their-plastics-promises)]
+- DW: *"European food companies break their plastics promises"* [[English](https://www.dw.com/a-62622509) | [German](https://www.dw.com/a-62622558) | [Portuguese (Brazil)](https://www.dw.com/a-62760635) | [Spanish](https://p.dw.com/p/4FL4Q)]
+- European Data Journalism Network: *"European food companies break their plastics promises"* [[English](https://www.europeandatajournalism.eu/eng/News/Data-news/European-food-companies-break-their-plastics-promises) | [German](https://www.europeandatajournalism.eu/ger/Nachrichten/Daten-Nachrichten/Europas-Lebensmittelbranche-verfehlt-Plastikziele)]
+- El Confidencial: *"Así incumplen las empresas sus promesas de contaminar menos"* [[Spanish](https://www.elconfidencial.com/mundo/europa/2022-08-09/empresas-incumplen-objetivos-medioambiente_3473141/)]
+
 
 # Files
 
