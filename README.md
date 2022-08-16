@@ -18,7 +18,7 @@ Transeuropa](https://www.balcanicaucaso.org/), [Openpolis](https://www.openpolis
 
 Links will be added as articles are published.
 
-- DW: *"European food companies break their plastics promises"* [[English](https://www.dw.com/a-62622509) | [German](https://www.dw.com/a-62622558) | [Portuguese (Brazil)](https://www.dw.com/a-62760635) | [Spanish](https://p.dw.com/p/4FL4Q)]
+- DW: *"European food companies break their plastics promises"* [[English](https://www.dw.com/a-62622509) | [German](https://www.dw.com/a-62622558) | [Indonesian](https://www.dw.com/id/a-62763068) | [Polish](https://p.dw.com/p/4FNpa) | [Portuguese (Brazil)](https://www.dw.com/a-62760635) | [Spanish](https://p.dw.com/p/4FL4Q)]
 - European Data Journalism Network: *"European food companies break their plastics promises"* [[English](https://www.europeandatajournalism.eu/eng/News/Data-news/European-food-companies-break-their-plastics-promises) | [German](https://www.europeandatajournalism.eu/ger/Nachrichten/Daten-Nachrichten/Europas-Lebensmittelbranche-verfehlt-Plastikziele)]
 - El Confidencial: *"Así incumplen las empresas sus promesas de contaminar menos"* [[Spanish](https://www.elconfidencial.com/mundo/europa/2022-08-09/empresas-incumplen-objetivos-medioambiente_3473141/)]
 
@@ -120,7 +120,7 @@ The full database (available as an [Excel file](Plastics Promises Database.xlsx)
 
 In the main story, we took a closer look at the French company Danone, who have repeatedly failed their goals on recycled PET in water bottles.
 
-Until 2015, Danone communicated its 2020 goal as referring to global production of water bottles. Later, the company seemed to amend the target to only refer to "countries where it is allowed" to use recycled PET, most often leaving out Turkey and China in calculations. In the amended calculation, Danone would have just reached its 2020 target value, with a reported 25.5% recycled materials in their water bottles in countries where it is allowed.
+Until 2015, Danone communicated its 2020 goal as referring to global production of water bottles. Later, the company seemed to amend the target to only refer to "countries where it is allowed" to use recycled PET, excluding Turkey, China and Iran in calculations. In the amended calculation, Danone would have just reached its 2020 target value, with a reported 25.5% recycled materials in their water bottles in countries where it is allowed.
 
 The chart below, which is also depicted in the article, shows the original ambition communicated in Danone’s reports. The company did not respond to requests for comment on these discrepancies.
 
