@@ -19,8 +19,14 @@ Transeuropa](https://www.balcanicaucaso.org/), [Openpolis](https://www.openpolis
 Links will be added as articles are published.
 
 - DW: *"European food companies break their plastics promises"* [[English](https://www.dw.com/a-62622509) | [German](https://www.dw.com/a-62622558) | [Indonesian](https://www.dw.com/id/a-62763068) | [Polish](https://p.dw.com/p/4FNpa) | [Portuguese (Brazil)](https://www.dw.com/a-62760635) | [Spanish](https://p.dw.com/p/4FL4Q)]
-- European Data Journalism Network: *"European food companies break their plastics promises"* [[English](https://www.europeandatajournalism.eu/eng/News/Data-news/European-food-companies-break-their-plastics-promises) | [German](https://www.europeandatajournalism.eu/ger/Nachrichten/Daten-Nachrichten/Europas-Lebensmittelbranche-verfehlt-Plastikziele)]
+- European Data Journalism Network: *"European food companies break their plastics promises"* [[English](https://www.europeandatajournalism.eu/eng/News/Data-news/European-food-companies-break-their-plastics-promises) | [French](https://www.europeandatajournalism.eu/fre/News/News-data/Les-entreprises-alimentaires-europeennes-ne-tiennent-pas-leurs-engagements-en-matiere-de-plastique)] | [German](https://www.europeandatajournalism.eu/ger/Nachrichten/Daten-Nachrichten/Europas-Lebensmittelbranche-verfehlt-Plastikziele)] | [Italian](https://www.europeandatajournalism.eu/ita/Notizie/Data-news/Le-aziende-alimentari-europee-non-rispettano-le-loro-promesse-di-ridurre-la-plastica)]
+
+
+- Capital: *" Европейските хранителни компании нарушават обещанията си за използване на пластмаси"* [[Bulgarian](https://www.capital.bg/politika_i_ikonomika/climate/2022/08/17/4377914_evropeiskite_hranitelni_kompanii_narushavat/)]
 - El Confidencial: *"Así incumplen las empresas sus promesas de contaminar menos"* [[Spanish](https://www.elconfidencial.com/mundo/europa/2022-08-09/empresas-incumplen-objetivos-medioambiente_3473141/)]
+- Euractiv Italia: *Plastica, molte aziende alimentari dell’Ue non rispettano gli impegni presi per ridurne il consumo* [[Italian](https://euractiv.it/section/energia-e-ambiente/news/plastica-molte-aziende-alimentari-dellue-non-rispettano-gli-impegni-presi-per-ridurne-il-consumo/)]
+- H-Alter: *"Europske prehrambene tvrtke krše obećanja o plastici "* [[Croatian](https://h-alter.org/planet-zemlja/europske-prehrambene-tvrtke-krse-obecanja-o-plastici/)]
+- VoxEurop: *"European food companies fail to reduce their plastic footprint"* [[English](https://voxeurop.eu/en/european-food-companies-fail-to-reduce-their-plastic-footprint/) | [French](https://voxeurop.eu/fr/comment-geants-europeens-alimentaire-font-greenwashing-matiere-plastique/) | [German](https://voxeurop.eu/de/greenwashing-leeren-versprechen-der-europaischen-lebensmittelindustrie/) | [Italian](https://voxeurop.eu/it/greenwashing-di-plastica-le-promesse-non-mantenute-delle-aziende-europee/) | [Spanish](https://voxeurop.eu/es/greenwashing-plasticos-promesas-rotas-companias-europeas/)]
 
 
 # Files
