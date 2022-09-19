@@ -135,7 +135,7 @@ Here are the sources behind the chart, listed also in the "Analysis" sheet of th
 | year | pledge | reality:<br>"where it's allowed" | reality:<br>"worldwide" | source              |
 |------|--------|--------------------|-----------|-------------------------------------------------|
 | 2008 |        |                 4% |        4% | [SR 2011, p. 156](https://drive.google.com/file/d/1s57bIoPU-kZQf1nUFMVuLpPuexgVWOjr/view) |
-| 2009 |    50% |                 8% |        8% | [SR 2014, p. 81](https://drive.google.com/file/d/1awWgJRX1LMAnLW-DbwsYqUfqN29G0obl/view?usp=sharing)                                  |
+| 2009 |        |                 8% |        8% | [SR 2014, p. 81](https://drive.google.com/file/d/1awWgJRX1LMAnLW-DbwsYqUfqN29G0obl/view?usp=sharing)                                  |
 | 2010 |        |                 8% |        8% | [SR 2014, p. 81](https://drive.google.com/file/d/1awWgJRX1LMAnLW-DbwsYqUfqN29G0obl/view?usp=sharing)                                  |
 | 2011 |    25% |                10% |       10% | [SR 2014, p. 81](https://drive.google.com/file/d/1awWgJRX1LMAnLW-DbwsYqUfqN29G0obl/view?usp=sharing)                                  |
 | 2012 |        |                 9% |        9% | [SR 2014, p. 81](https://drive.google.com/file/d/1awWgJRX1LMAnLW-DbwsYqUfqN29G0obl/view?usp=sharing)                                  |
