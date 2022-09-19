@@ -18,7 +18,7 @@ Transeuropa](https://www.balcanicaucaso.org/), [Openpolis](https://www.openpolis
 
 Links will be added as articles are published.
 
-- DW: *"European food companies break their plastics promises"* [[English](https://www.dw.com/a-62622509) | [German](https://www.dw.com/a-62622558) | [Indonesian](https://www.dw.com/id/a-62763068) | [Polish](https://p.dw.com/p/4FNpa) | [Portuguese (Brazil)](https://www.dw.com/a-62760635) | [Spanish](https://p.dw.com/p/4FL4Q)]
+- DW: *"European food companies break their plastics promises"* [[English](https://www.dw.com/a-62622509) | [Arabic](https://p.dw.com/p/4FKS4) | [German](https://www.dw.com/a-62622558) | [Indonesian](https://www.dw.com/id/a-62763068) | [Polish](https://p.dw.com/p/4FNpa) | [Portuguese (Brazil)](https://www.dw.com/a-62760635) | [Spanish](https://p.dw.com/p/4FL4Q)]
 - European Data Journalism Network: *"European food companies break their plastics promises"* [[English](https://www.europeandatajournalism.eu/eng/News/Data-news/European-food-companies-break-their-plastics-promises) | [French](https://www.europeandatajournalism.eu/fre/News/News-data/Les-entreprises-alimentaires-europeennes-ne-tiennent-pas-leurs-engagements-en-matiere-de-plastique)] | [German](https://www.europeandatajournalism.eu/ger/Nachrichten/Daten-Nachrichten/Europas-Lebensmittelbranche-verfehlt-Plastikziele)] | [Italian](https://www.europeandatajournalism.eu/ita/Notizie/Data-news/Le-aziende-alimentari-europee-non-rispettano-le-loro-promesse-di-ridurre-la-plastica)]
 
 
